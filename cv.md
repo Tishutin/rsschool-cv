@@ -17,26 +17,23 @@
 
 ### **Skills and Proficiency:**  
 
-*Html, CSS
-*JavaScript (Basic)
-*Java Core
-*Git, GitHub
-*VS Code, IntelliJ IDEA
-*Adobe Photoshop, Adobe LightRoom
+*Html, CSS  
+*JavaScript (Basic)  
+*Java Core  
+*Git, GitHub  
+*VS Code, IntelliJ IDEA  
+*Adobe Photoshop, Adobe LightRoom  
 
 ### **Code example:**  
 ''' 
 public class OppositesAttract {
-
   public static boolean isLove(final int flower1, final int flower2) {
-
     int sum = flower1 % 2 + flower2 % 2;
     if (sum == 1) {
       return true;
     }
     else return false;
   }
-  
 }
 '  
 ### **Education:**   
